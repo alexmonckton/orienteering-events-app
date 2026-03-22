@@ -16,7 +16,7 @@ function App() {
         <Box sx={{ paddingBottom: { xs: "56px", md: 0 } }}>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/about" element={<div>About Page</div>} />
+          <Route path="/about" element={<div>The About Page</div>} />
           <Route path="/contact" element={<div>Contact Page</div>} />
         </Routes>
       </Box>
