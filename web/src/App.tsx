@@ -4,7 +4,8 @@ import './App.css'
 
 import Button from './components/button'
 import Navigation from './components/navigation'
-import Home from './views/home'
+import HomeView from './views/HomeView'
+import MapView from './views/MapView'
 import { Box } from '@mui/material'
 
 function App() {
@@ -14,12 +15,12 @@ function App() {
     <BrowserRouter>
       <Navigation>
         <Box sx={{ paddingBottom: { xs: "56px", md: 0 } }}>
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/about" element={<div>The About Page</div>} />
-          <Route path="/contact" element={<div>Contact Page</div>} />
-        </Routes>
-      </Box>
+          <Routes>
+            <Route path="/" element={<HomeView />} />
+            <Route path="/map" element={<MapView />} />
+            <Route path="/contact" element={<div>Contact Page</div>} />
+          </Routes>
+        </Box>
       </Navigation>
     </BrowserRouter>
   )

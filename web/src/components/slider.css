@@ -1,0 +1,3 @@
+.MuiSlider-markLabel {
+    transform: translateX(-100%) rotateZ(-40deg) !important;
+}

@@ -1,15 +1,25 @@
 {
   "files": [],
   "references": [
-    { "path": "./tsconfig.app.json" },
-    { "path": "./tsconfig.node.json" }
+    {
+      "path": "./tsconfig.app.json"
+    },
+    {
+      "path": "./tsconfig.node.json"
+    }
   ],
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@web/*": ["web/src/*"],
-      "@mobile/*": ["mobile/app/*"],
-      "@shared/*": ["shared/*"]
+      "@web/*": [
+        "web/src/*"
+      ],
+      "@mobile/*": [
+        "mobile/app/*"
+      ],
+      "@shared/*": [
+        "shared/*"
+      ]
     }
   }
 }
