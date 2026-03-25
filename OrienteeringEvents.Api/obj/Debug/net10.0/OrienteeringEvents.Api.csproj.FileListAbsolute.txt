@@ -32,3 +32,4 @@ C:\Users\amonc\Documents\orienteering-events-app\OrienteeringEvents.Api\obj\Debu
 C:\Users\amonc\Documents\orienteering-events-app\OrienteeringEvents.Api\obj\Debug\net10.0\OrienteeringEvents.Api.pdb
 C:\Users\amonc\Documents\orienteering-events-app\OrienteeringEvents.Api\obj\Debug\net10.0\OrienteeringEvents.Api.genruntimeconfig.cache
 C:\Users\amonc\Documents\orienteering-events-app\OrienteeringEvents.Api\obj\Debug\net10.0\ref\OrienteeringEvents.Api.dll
+C:\Users\amonc\Documents\orienteering-events-app\OrienteeringEvents.Api\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
