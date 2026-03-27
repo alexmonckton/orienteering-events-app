@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrienteeringEvents.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b3aebc2ccab742769d9fbaf1b558a66de75aba7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da1ff314aca34e0cb0f7881645a2f0ecc94bff6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrienteeringEvents.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrienteeringEvents.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

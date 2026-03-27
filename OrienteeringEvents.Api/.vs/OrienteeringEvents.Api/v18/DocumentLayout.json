@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\amonc\\Documents\\orienteering-events-app\\OrienteeringEvents.Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0F3F7FB7-171B-3A74-B735-C28483DEE17C}|OrienteeringEvents.Api.csproj|c:\\users\\amonc\\documents\\orienteering-events-app\\orienteeringevents.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F3F7FB7-171B-3A74-B735-C28483DEE17C}|OrienteeringEvents.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0F3F7FB7-171B-3A74-B735-C28483DEE17C}|OrienteeringEvents.Api.csproj|c:\\users\\amonc\\documents\\orienteering-events-app\\orienteeringevents.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F3F7FB7-171B-3A74-B735-C28483DEE17C}|OrienteeringEvents.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3F7FB7-171B-3A74-B735-C28483DEE17C}|OrienteeringEvents.Api.csproj|c:\\users\\amonc\\documents\\orienteering-events-app\\orienteeringevents.api\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3F7FB7-171B-3A74-B735-C28483DEE17C}|OrienteeringEvents.Api.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3F7FB7-171B-3A74-B735-C28483DEE17C}|OrienteeringEvents.Api.csproj|c:\\users\\amonc\\documents\\orienteering-events-app\\orienteeringevents.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3F7FB7-171B-3A74-B735-C28483DEE17C}|OrienteeringEvents.Api.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3F7FB7-171B-3A74-B735-C28483DEE17C}|OrienteeringEvents.Api.csproj|c:\\users\\amonc\\documents\\orienteering-events-app\\orienteeringevents.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F3F7FB7-171B-3A74-B735-C28483DEE17C}|OrienteeringEvents.Api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3F7FB7-171B-3A74-B735-C28483DEE17C}|OrienteeringEvents.Api.csproj|c:\\users\\amonc\\documents\\orienteering-events-app\\orienteeringevents.api\\orienteeringevents.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F3F7FB7-171B-3A74-B735-C28483DEE17C}|OrienteeringEvents.Api.csproj|solutionrelative:orienteeringevents.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3F7FB7-171B-3A74-B735-C28483DEE17C}|OrienteeringEvents.Api.csproj|c:\\users\\amonc\\documents\\orienteering-events-app\\orienteeringevents.api\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3F7FB7-171B-3A74-B735-C28483DEE17C}|OrienteeringEvents.Api.csproj|solutionrelative:controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,16 +46,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\amonc\\Documents\\orienteering-events-app\\OrienteeringEvents.Api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\amonc\\Documents\\orienteering-events-app\\OrienteeringEvents.Api\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:04:51.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\amonc\\Documents\\orienteering-events-app\\OrienteeringEvents.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\amonc\\Documents\\orienteering-events-app\\OrienteeringEvents.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-25T22:19:10.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\amonc\\Documents\\orienteering-events-app\\OrienteeringEvents.Api\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext.cs",
+              "ToolTip": "C:\\Users\\amonc\\Documents\\orienteering-events-app\\OrienteeringEvents.Api\\AppDbContext.cs",
+              "RelativeToolTip": "AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T22:02:41.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\amonc\\Documents\\orienteering-events-app\\OrienteeringEvents.Api\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\amonc\\Documents\\orienteering-events-app\\OrienteeringEvents.Api\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBMAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T21:25:10.344Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\amonc\\Documents\\orienteering-events-app\\OrienteeringEvents.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\amonc\\Documents\\orienteering-events-app\\OrienteeringEvents.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-25T21:50:51.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrienteeringEvents.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\amonc\\Documents\\orienteering-events-app\\OrienteeringEvents.Api\\OrienteeringEvents.Api.csproj",
+              "RelativeDocumentMoniker": "OrienteeringEvents.Api.csproj",
+              "ToolTip": "C:\\Users\\amonc\\Documents\\orienteering-events-app\\OrienteeringEvents.Api\\OrienteeringEvents.Api.csproj",
+              "RelativeToolTip": "OrienteeringEvents.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-26T22:19:29.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "C:\\Users\\amonc\\Documents\\orienteering-events-app\\OrienteeringEvents.Api\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HelloController.cs",
+              "ToolTip": "C:\\Users\\amonc\\Documents\\orienteering-events-app\\OrienteeringEvents.Api\\Controllers\\HelloController.cs",
+              "RelativeToolTip": "Controllers\\HelloController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:34:43.582Z"
             }
           ]
         }
